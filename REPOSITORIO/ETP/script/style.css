@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background: url('../img/bg.png');
+}
+.firstMenu{
+    height: 20px;
+    text-align: center;
+    background:#3a1731;
+    color:white;
+}
+a{
+    color:#ede2d6 !important;
+}
+a:hover{
+    background:#56304C !important;
+}
+#navbar{
+    background: #5F3554;
+    border-bottom: 1px solid blue;
+}
+.header{
+    height: 20%;
+    
+}
+.pFull{
+    padding: 50 50 50 50;
+    text-align: center;
+    font-size: 32px;
+}
+.pFirst{
+    border: 1px solid blue;
+    border-radius: 50px;
+}
+.secondSection{
+    background: url('../img/imgCobranca.jpg') no-repeat;
+    height: 75%;   
+}
+.row{
+    margin: 0 !important;
+}
+
+.form-inline{
+
+}
+.form-control{
+
+}
+.lblForm{
+    
+}
